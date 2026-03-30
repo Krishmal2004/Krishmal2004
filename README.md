@@ -1,27 +1,30 @@
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20" width="100%"/>
+  </picture>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Mobile+App+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Software+Developer;Machine+Learning+Researcher;Mobile+App+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
 <p align="center">
-  <a href="https://github.com/Krishmal2004?tab=repositories"><img src="https://img.shields.io/badge/Repositories-15+-2962FF?style=for-the-badge&logoColor=white" alt="Repositories"></a>
-  <a href="https://github.com/Krishmal2004"><img src="https://komarev.com/ghpvc/?username=Krishmal2004&style=for-the-badge&color=2962FF" alt="Profile Views"></a>
+  <a href="https://github.com/Krishmal2004?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-15+-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://github.com/Krishmal2004">
+    <img src="https://komarev.com/ghpvc/?username=Krishmal2004&style=for-the-badge&color=2962FF&label=Profile%20Views" alt="Profile Views">
+  </a>
 </p>
 
-<div align ="center">
-  ![Snake animation](https://github.com/Krishmal2004/Krishmal2004/blob/main/dist/github-contribution-grid-snake-dark.svg)
-</div>
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 👨‍🚀 About Me
 
 <img align="right" height="250" width="250" alt="Astronaut" src="https://raw.githubusercontent.com/Kavi-ya/Kavi-ya/main/assets/astronaut.png"/>
 
@@ -37,99 +40,100 @@ const profile = {
 };
 ```
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Krishmal2004&background=00000000&hide_border=true&stroke=6B7280&ring=00c7ff&fire=2962FF&currStreakNum=6B7280&sideNums=6B7280&currStreakLabel=00c7ff&sideLabels=00c7ff&dates=6B7280" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
-</p>
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Stats Dashboard
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- New Stats Dashboard including Stars, PRs, Issues, and Reviews -->
-        <a href="https://github.com/Krishmal2004">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <!-- Top Languages -->
-        <a href="https://github.com/Krishmal2004">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb&cache_seconds=7200" alt="Most Used Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Krishmal2004&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Krishmal2004 Trophies" />
+  </a>
 </div>
 
 <br/>
 
+## 📊 GitHub Stats & Streaks
+
 <div align="center">
-  ![Trophy Graph](https://nirzak-trophies.vercel.app/?username=Krishmal2004&theme=radical&no-frame=true&column=-1)
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Krishmal2004">
+          <img src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Krishmal2004">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <a href="https://github.com/Krishmal2004">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Krishmal2004&theme=react&hide_border=true&background=20232a&ring=00c7ff&fire=00c7ff&currStreakLabel=00c7ff" alt="GitHub Streak" />
+  </a>
 </div>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Featured Projects
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+## 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Mobile App Dev** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) |
+| **Data & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| **Tools & Build** | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) |
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Krishmal2004/BrAINLabsInc-official-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=BrAINLabsInc-official-web&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="BrAINLabsInc" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=BrAINLabsInc-official-web&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="BrAINLabsInc" />
   </a>
   <a href="https://github.com/Krishmal2004/House_hold_power_consumption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=House_hold_power_consumption&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="ML Power Consumption" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Krishmal2004/WordSay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=WordSay&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="WordSay" />
-  </a>
-  <a href="https://github.com/Krishmal2004/Food-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=Food-Reservation-App&title_color=00c7ff&icon_color=2962FF&text_color=6B7280&bg_color=00000000&hide_border=true" alt="Food Reservation App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=House_hold_power_consumption&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="ML Power Consumption" />
   </a>
 </div>
 
 <div align="center">
+  <a href="https://github.com/Krishmal2004/WordSay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=WordSay&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="WordSay" />
+  </a>
+  <a href="https://github.com/Krishmal2004/Food-Reservation-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=Food-Reservation-App&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="Food Reservation App" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
   <a href="https://github.com/Krishmal2004?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-00c7ff?style=for-the-badge" alt="View All Repositories"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+---
 
-## <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="30"> Connect With Me
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -139,18 +143,13 @@ const profile = {
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
-</div>
-
+<!-- Footer Section -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:008bff,100:00c7ff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:008bff,100:00c7ff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:008bff,100:00c7ff" alt="footer">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient">
+    <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient" alt="footer" width="100%">
   </picture>
 </div>
