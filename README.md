@@ -71,12 +71,19 @@ const profile = {
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Stats & Top Languages
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Stats Dashboard
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
+        <!-- New Stats Dashboard including Stars, PRs, Issues, and Reviews -->
+        <a href="https://github.com/Krishmal2004">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <!-- Top Languages -->
         <a href="https://github.com/Krishmal2004">
           <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb&cache_seconds=7200" alt="Most Used Languages"/>
         </a>
@@ -126,8 +133,8 @@ const profile = {
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
