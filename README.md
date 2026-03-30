@@ -1,11 +1,5 @@
-<!-- Header Section -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Krishmal2004&fontSize=80&fontAlignY=35&animation=fadeIn&desc=AI%20Enthusiast%20|%20Full-Stack%20&%20Mobile%20Developer&descAlignY=62&descSize=20" width="100%"/>
-  </picture>
-</div>
+<a href="http://gitbanner.Krishmal2004.me/" target="_blank"><img src="Krishmal -profile-banner.svg"  style="width: 100%;"></a>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
