@@ -73,16 +73,11 @@ const profile = {
 
 <br/>
 
-## 🐍 Contribution Graph
+<a name="snake"></a>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Krishmal2004/Krishmal2004/main/dist/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
+## Python Processing My Pushes 🐍
 
+[![Snake animation](https://github.com/Krishmal2004/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)](https://github.com/Krishmal2004/contribution_snake)
 ---
 
 ## 🛠️ My Tech Stack
