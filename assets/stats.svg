@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<style>
+  text { font-family: Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Courier New', monospace; }
+  .f { opacity: 0; animation: in .4s ease-out forwards; }
+  .grow { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .6s ease-out forwards; }
+  .fill { transform: scaleX(0); animation: fill .9s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  @keyframes grow { to { transform: scaleY(1); } }
+  @keyframes fill { to { transform: scaleX(1); } }
+</style>
+<defs><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="898" height="328" rx="12" fill="#0d1117" stroke="#00ff9c" stroke-opacity=".45"/>
+<path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v21H1z" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="450.0" y="23" text-anchor="middle" font-size="12" fill="#8b949e">stats — zsh</text>
+<text x="24" y="62" font-size="14"><tspan fill="#00ff9c">krishmal@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ gh stats --user krishmal2004 --langs</tspan></text>
+<text class="f" style="animation-delay:0.20s" x="24" y="100" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> contributions  </tspan><tspan fill="#c9d1d9" font-weight="bold">1,639     </tspan><tspan fill="#484f58"> last 12 months</tspan></text>
+<text class="f" style="animation-delay:0.28s" x="24" y="125" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> current streak </tspan><tspan fill="#c9d1d9" font-weight="bold">11 days   </tspan><tspan fill="#484f58"> </tspan></text>
+<text class="f" style="animation-delay:0.36s" x="24" y="150" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> longest streak </tspan><tspan fill="#c9d1d9" font-weight="bold">11 days   </tspan><tspan fill="#484f58"> </tspan></text>
+<text class="f" style="animation-delay:0.44s" x="24" y="175" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> public repos   </tspan><tspan fill="#c9d1d9" font-weight="bold">56        </tspan><tspan fill="#484f58"> 30 own · 26 forks</tspan></text>
+<text class="f" style="animation-delay:0.52s" x="24" y="200" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> stars earned   </tspan><tspan fill="#c9d1d9" font-weight="bold">13        </tspan><tspan fill="#484f58"> </tspan></text>
+<text class="f" style="animation-delay:0.60s" x="24" y="225" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> pull requests  </tspan><tspan fill="#c9d1d9" font-weight="bold">293       </tspan><tspan fill="#484f58"> total opened</tspan></text>
+<text class="f" style="animation-delay:0.68s" x="24" y="250" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> oss PRs merged </tspan><tspan fill="#c9d1d9" font-weight="bold">110       </tspan><tspan fill="#484f58"> to other repos</tspan></text>
+<text class="f" style="animation-delay:0.76s" x="24" y="275" font-size="14" xml:space="preserve"><tspan fill="#00ff9c">›</tspan><tspan fill="#8b949e"> followers      </tspan><tspan fill="#c9d1d9" font-weight="bold">18        </tspan><tspan fill="#484f58"> </tspan></text>
+<line x1="470" y1="46" x2="470" y2="310" stroke="#30363d"/>
+<text x="494" y="100" font-size="13" fill="#8b949e"># top languages (bytes, own repos)</text>
+<g class="f" style="animation-delay:0.40s"><text x="494" y="128" font-size="13" fill="#c9d1d9">Java</text><rect x="604" y="117" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.50s" x="604" y="117" width="55.8" height="12" rx="2" fill="#b07219"/><text x="876" y="128" font-size="13" fill="#8b949e" text-anchor="end">27.9%</text></g>
+<g class="f" style="animation-delay:0.48s"><text x="494" y="154" font-size="13" fill="#c9d1d9">HTML</text><rect x="604" y="143" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.58s" x="604" y="143" width="52.4" height="12" rx="2" fill="#e34c26"/><text x="876" y="154" font-size="13" fill="#8b949e" text-anchor="end">26.2%</text></g>
+<g class="f" style="animation-delay:0.56s"><text x="494" y="180" font-size="13" fill="#c9d1d9">JavaScript</text><rect x="604" y="169" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.66s" x="604" y="169" width="32.6" height="12" rx="2" fill="#f1e05a"/><text x="876" y="180" font-size="13" fill="#8b949e" text-anchor="end">16.3%</text></g>
+<g class="f" style="animation-delay:0.64s"><text x="494" y="206" font-size="13" fill="#c9d1d9">TypeScript</text><rect x="604" y="195" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.74s" x="604" y="195" width="16.8" height="12" rx="2" fill="#3178c6"/><text x="876" y="206" font-size="13" fill="#8b949e" text-anchor="end"> 8.4%</text></g>
+<g class="f" style="animation-delay:0.72s"><text x="494" y="232" font-size="13" fill="#c9d1d9">CSS</text><rect x="604" y="221" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.82s" x="604" y="221" width="12.7" height="12" rx="2" fill="#663399"/><text x="876" y="232" font-size="13" fill="#8b949e" text-anchor="end"> 6.3%</text></g>
+<g class="f" style="animation-delay:0.80s"><text x="494" y="258" font-size="13" fill="#c9d1d9">Dart</text><rect x="604" y="247" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.90s" x="604" y="247" width="8.2" height="12" rx="2" fill="#00B4AB"/><text x="876" y="258" font-size="13" fill="#8b949e" text-anchor="end"> 4.1%</text></g>
+<g class="f" style="animation-delay:0.88s"><text x="494" y="284" font-size="13" fill="#c9d1d9">C++</text><rect x="604" y="273" width="200" height="12" rx="2" fill="#161b22" stroke="#30363d"/><rect class="fill" style="animation-delay:0.98s" x="604" y="273" width="4.3" height="12" rx="2" fill="#f34b7d"/><text x="876" y="284" font-size="13" fill="#8b949e" text-anchor="end"> 2.2%</text></g>
+<text x="876" y="316" font-size="11" fill="#484f58" text-anchor="end">updated 2026-09-23 · auto-generated by GitHub Actions</text>
+</svg>

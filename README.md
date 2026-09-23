@@ -4,7 +4,7 @@
   <img src="assets/terminal-header.svg" width="100%" alt="krishmal@github neofetch" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+Software+Developer+%7C+AI+Researcher;%3E+Building+brain-inspired+AI+%40+BrAIN+Labs;%3E+Open+Source+Contributor+%E2%80%94+40%2B+PRs+merged;%3E+Access+granted+%E2%9C%94" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+Software+Developer+%7C+AI+Researcher;%3E+Building+brain-inspired+AI+%40+BrAIN+Labs;%3E+Open+Source+Contributor+%E2%80%94+100%2B+PRs+merged;%3E+Access+granted+%E2%9C%94" alt="typing" />
 
 <a href="https://github.com/Krishmal2004?tab=repositories"><img src="https://img.shields.io/badge/repos-50+-00ff9c?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117" /></a>
 <a href="https://github.com/Krishmal2004?tab=followers"><img src="https://img.shields.io/github/followers/Krishmal2004?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c&label=followers" /></a>
@@ -118,21 +118,17 @@ repos:    [BrAINLabsInc-official-web, brain-labs-portal, mindflow-platform]
 ## `>_ ./stats --live --watch`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&ring_color=00ff9c" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="170" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krishmal2004&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishmal2004&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishmal2004&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=%24%20contributions%20--graph" width="100%" />
+  <img src="assets/stats.svg" width="100%" alt="GitHub stats" />
+  <img src="assets/activity.svg" width="100%" alt="contribution activity" />
+  <img src="assets/achievements.svg" width="100%" alt="achievements" />
+  <sub><code># cards regenerated daily by GitHub Actions — no third-party services</code></sub>
 </div>
 
 ## `>_ python snake.py --eat-contributions`
 
 <div align="center">
   <a href="https://github.com/Krishmal2004/contribution_snake">
-    <img src="https://github.com/Krishmal2004/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+    <img src="https://raw.githubusercontent.com/Krishmal2004/contribution_snake/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
   </a>
 </div>
 
