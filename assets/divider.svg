@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="14" viewBox="0 0 900 14">
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#00ff9c" stop-opacity="0"/><stop offset=".5" stop-color="#00ff9c"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/></linearGradient>
+<filter id="f"><feGaussianBlur stdDeviation="1.6"/></filter></defs>
+<line x1="14" y1="7" x2="886" y2="7" stroke="#00ff9c" stroke-opacity=".18" stroke-width="1"/>
+<g><rect x="-240" y="5.5" width="240" height="3" rx="1.5" fill="url(#d)" filter="url(#f)"/><rect x="-240" y="6.3" width="240" height="1.4" fill="url(#d)"/>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="1140 0" dur="3.5s" repeatCount="indefinite"/></g>
+<g font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="10" fill="#00ff9c" fill-opacity=".6"><text x="0" y="11">&lt;/</text><text x="890" y="11">&gt;</text></g>
+</svg>

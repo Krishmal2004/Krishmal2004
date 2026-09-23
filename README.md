@@ -1,140 +1,159 @@
-<a href="http://gitbanner.Krishmal2004.me/" target="_blank"><img src="Krishmal -profile-banner.svg"  style="width: 100%;"></a>
-
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Software+Developer;Machine+Learning+Researcher;Mobile+App+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
-  </a>
+
+<a href="https://krishmal2004.github.io">
+  <img src="assets/terminal-header.svg" width="100%" alt="krishmal@github neofetch" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=%3E+Software+Developer+%7C+AI+Researcher;%3E+Building+brain-inspired+AI+%40+BrAIN+Labs;%3E+Open+Source+Contributor+%E2%80%94+40%2B+PRs+merged;%3E+Access+granted+%E2%9C%94" alt="typing" />
+
+<a href="https://github.com/Krishmal2004?tab=repositories"><img src="https://img.shields.io/badge/repos-50+-00ff9c?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117" /></a>
+<a href="https://github.com/Krishmal2004?tab=followers"><img src="https://img.shields.io/github/followers/Krishmal2004?style=flat-square&logo=github&logoColor=00ff9c&labelColor=0d1117&color=00ff9c&label=followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=Krishmal2004&style=flat-square&color=00ff9c&label=visitors" />
+<img src="https://img.shields.io/badge/status-hireable-00ff9c?style=flat-square&labelColor=0d1117" />
+<a href="https://krishmal2004.github.io"><img src="https://img.shields.io/badge/portfolio-online-00ff9c?style=flat-square&logo=googlechrome&logoColor=00ff9c&labelColor=0d1117" /></a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/Krishmal2004?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-15+-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-  <a href="https://github.com/Krishmal2004">
-    <img src="https://komarev.com/ghpvc/?username=Krishmal2004&style=for-the-badge&color=2962FF&label=Profile%20Views" alt="Profile Views">
-  </a>
-</p>
+<img src="assets/divider.svg" width="100%" />
 
----
+## `>_ cat about.json`
 
-## 👨‍🚀 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/Kavi-ya/Kavi-ya/main/assets/astronaut.png" alt="astronaut" />
 
-<img align="right" height="250" width="250" alt="Astronaut" src="https://raw.githubusercontent.com/Kavi-ya/Kavi-ya/main/assets/astronaut.png"/>
-
-```javascript
-const profile = {
-  name: "Krishmal",
-  role: "Software Developer & AI Researcher",
-  languages: ["TypeScript", "Python", "Dart", "C++", "Java", "Swift", "Kotlin"],
-  specialties: ["Machine Learning", "Mobile Development", "Web Development"],
-  current_focus: "Brain-inspired AI, Neuroinformatics & Scalable Apps",
-  interests: ["AI/ML", "Cross-Platform Mobile Apps", "Data Science"],
-  hobbies: ["Building Innovative Solutions"]
-};
+```json
+{
+  "name":     "Krishmal Dinidu",
+  "role":     "Software Developer & AI Researcher",
+  "uni":      "SLIIT — Sri Lanka Institute of IT",
+  "based":    "Colombo, Sri Lanka",
+  "focus":    ["Brain-inspired AI", "Spiking Neural Networks"],
+  "building": ["Web platforms", "Mobile apps", "Dev tools"],
+  "learning": ["Rust", "Go", "Identity & Security"],
+  "motto":    "Always learning, always shipping."
+}
 ```
 
-<br/>
+```bash
+$ uptime
+> online since 2024 · coding daily · coffee: ∞
+```
 
-## My GitRoll Stats
-<a href="https://gitroll.io/profile/utE6W1hbjV9h2NDYpK0iTRUwI0Id2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utE6W1hbjV9h2NDYpK0iTRUwI0Id2?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
+<br clear="right"/>
 
-<br/>
+<img src="assets/divider.svg" width="100%" />
 
-## 📊 GitHub Stats & Streaks
+## `>_ ls ./skills --all`
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Krishmal2004">
-          <img src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Krishmal2004">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&text_color=ffffff&icon_color=61dafb" alt="Top Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
+
+| `$ lang` | `$ frameworks` |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,rust,cs,cpp,c,dart&perline=5&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,spring,tailwind,vite&perline=4&theme=dark" /> |
+| **`$ data & ml`** | **`$ cloud & tools`** |
+| <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,tensorflow&perline=3&theme=dark" /> | <img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,docker,git,github,githubactions,linux&perline=4&theme=dark" /> |
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `>_ ls -la ./projects`
+
+```text
+drwxr-xr-x  React-SEO          TypeScript   composable React SEO toolkit
+drwxr-xr-x  CertVerifySystem   C#           signed certificates + public verification
+drwxr-xr-x  Public-Transport   JavaScript   SLTB DepotOps — bus depot ops dashboard
+drwxr-xr-x  MTR                Rust         terminal UI app (tui-rs)
+drwxr-xr-x  WordSay            Dart         Flutter mobile app
+drwxr-xr-x  power-consumption  Python       household energy ML model
+```
+
+<details open>
+<summary><b><code>$ cat ./projects/README --featured</code></b></summary>
+<br/>
+
+| # | Project | What it does | Stack | Links |
+| :-: | :--- | :--- | :--- | :--- |
+| 01 | **React-SEO** | Component + hook APIs for title templates, Open Graph, Twitter Cards, canonical, robots & language alternates | ![](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript) ![](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react) | [`repo`](https://github.com/Krishmal2004/React-SEO) |
+| 02 | **CertVerifySystem** | Stops fake certificates by digitally signing every certificate issued, and lets anyone verify the signature | ![](https://img.shields.io/badge/-C%23-0d1117?style=flat-square&logo=csharp) | [`repo`](https://github.com/Krishmal2004/CertVerifySystem) · [`live`](https://cert-verify-system.vercel.app) |
+| 03 | **SLTB DepotOps** | Dashboard tackling ~2,000 idle SLTB buses — breakdowns, maintenance & spare-part tracking | ![](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript) | [`repo`](https://github.com/Krishmal2004/Public-Transport) · [`live`](https://public-transport-one.vercel.app) |
+| 04 | **MTR** | Terminal UI application written in Rust | ![](https://img.shields.io/badge/-Rust-0d1117?style=flat-square&logo=rust) | [`repo`](https://github.com/Krishmal2004/MTR) |
+| 05 | **WordSay** | Cross-platform mobile app | ![](https://img.shields.io/badge/-Flutter-0d1117?style=flat-square&logo=flutter) | [`repo`](https://github.com/Krishmal2004/WordSay) |
+| 06 | **Power Consumption ML** | Machine learning on household power consumption data | ![](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python) | [`repo`](https://github.com/Krishmal2004/House_hold_power_consumption) |
+
+</details>
+
+<details>
+<summary><b><code>$ cat ./research/brain-labs</code></b></summary>
+<br/>
+
+```yaml
+lab:      BrAIN Labs Inc.
+area:     brain-inspired AI · neuroinformatics
+topics:   [Spiking Neural Networks, STDP, Brian2, computational neuroscience]
+repos:    [BrAINLabsInc-official-web, brain-labs-portal, mindflow-platform]
+```
+
+</details>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `>_ git log --author=Krishmal2004 --open-source`
+
+```diff
++ [merged]  Goverment-Service/Government_Service_Navigator   40+ PRs   backend · dashboards · TUI runner · NeonDB · CI
++ [merged]  openschool-org/openschool                        3 PRs     Phase A features · SonarQube fixes
++ [merged]  Mozilla-Campus-Club-of-SLIIT/certify-v2-fe                 certificate verification page
++ [merged]  Mozilla-Campus-Club-of-SLIIT/codenight-n3-GO               challenge questions · points system
++ [merged]  HasithaErandika/loregrep                                   stage 01 implementation
+! [review]  cisco/openh264                                             bug fix
+! [review]  hashgraph-online/hol-guard                                 new feature
+```
+
+<div align="center">
+<a href="https://github.com/pulls?q=is%3Apr+author%3AKrishmal2004+-user%3AKrishmal2004"><img src="https://img.shields.io/badge/%3E__view__all__pull__requests-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" /></a>
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `>_ ./stats --live --watch`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishmal2004&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&ring_color=00ff9c" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmal2004&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" height="170" />
   <br/>
-  
-  <a href="https://github.com/Krishmal2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Krishmal2004&theme=react&hide_border=true&background=20232a&ring=00c7ff&fire=00c7ff&currStreakLabel=00c7ff" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krishmal2004&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishmal2004&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishmal2004&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=%24%20contributions%20--graph" width="100%" />
 </div>
 
-<br/>
-
-<a name="snake"></a>
-
-## Python Processing My Pushes 🐍
-
-[![Snake animation](https://github.com/Krishmal2004/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)](https://github.com/Krishmal2004/contribution_snake)
----
-
-## 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Frontend & App Dev** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native CLI](https://img.shields.io/badge/react_native_cli-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
-| **Backend & Databases** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Data & Machine Learning** | ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Brian2](https://img.shields.io/badge/Brian2-%23013243.svg?style=for-the-badge&logo=python&logoColor=white) |
-| **Cloud & Hosting** | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
-| **Tools & Infrastructure** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) |
-| **Ongoing Research** | ![SNN](https://img.shields.io/badge/SNN-(Spiking_Neural_Network)-%231572B6.svg?style=for-the-badge) |
-
-## 🚀 Featured Projects
+## `>_ python snake.py --eat-contributions`
 
 <div align="center">
-  <a href="https://github.com/Krishmal2004/BrAINLabsInc-official-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=BrAINLabsInc-official-web&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="BrAINLabsInc" />
-  </a>
-  <a href="https://github.com/Krishmal2004/House_hold_power_consumption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=House_hold_power_consumption&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="ML Power Consumption" />
+  <a href="https://github.com/Krishmal2004/contribution_snake">
+    <img src="https://github.com/Krishmal2004/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
   </a>
 </div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## `>_ ping krishmal`
 
 <div align="center">
-  <a href="https://github.com/Krishmal2004/WordSay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=WordSay&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="WordSay" />
-  </a>
-  <a href="https://github.com/Krishmal2004/Food-Reservation-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishmal2004&repo=Food-Reservation-App&theme=react&hide_border=true&bg_color=20232a&title_color=00c7ff&icon_color=61dafb&text_color=ffffff" alt="Food Reservation App" />
-  </a>
+
+<a href="https://krishmal2004.github.io"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff9c" /></a>
+<a href="https://linkedin.com/in/krishmal-dinidu-a933b4349"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" /></a>
+<a href="https://discordapp.com/users/krishmaldinidu_62534"><img src="https://img.shields.io/badge/discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ff9c" /></a>
+<a href="mailto:krishmaldinidu5466@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" /></a>
+
 </div>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/Krishmal2004?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-00c7ff?style=for-the-badge" alt="View All Repositories"/>
-  </a>
-</div>
+```bash
+PING krishmal (127.0.0.1): 56 data bytes
+64 bytes from krishmal: icmp_seq=0 ttl=64 time=0.42 ms   # open to collabs
+64 bytes from krishmal: icmp_seq=1 ttl=64 time=0.38 ms   # open to internships 🚀
+--- krishmal ping statistics --- 2 packets transmitted, 2 received, 0% packet loss
+```
 
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in//krishmal-dinidu-a933b4349" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discordapp.com/users/krishmaldinidu_62534" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:krishmaldinidu5466@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<!-- Footer Section -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient">
-    <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient" alt="footer" width="100%">
-  </picture>
-</div>
+<img src="assets/matrix-footer.svg" width="100%" alt="exit" />

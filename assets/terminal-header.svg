@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<style>
+  text { font-family: Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', 'Courier New', monospace; }
+  .l { opacity: 0; animation: in .35s ease-out forwards; }
+  .cur { animation: blink 1s steps(1) infinite; }
+  .scan { animation: scan 6s linear infinite; }
+  .glow { animation: pulse 3s ease-in-out infinite; }
+  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(470px); } }
+  @keyframes pulse { 0%,100% { stroke-opacity: .35; } 50% { stroke-opacity: .9; } }
+</style>
+<defs>
+  <linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/><stop offset=".5" stop-color="#00ff9c" stop-opacity=".08"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" fill-opacity=".025"/></pattern>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="win"><rect x="10" y="10" width="880" height="450" rx="12"/></clipPath>
+  <clipPath id="type1"><rect x="0" y="50" height="40" width="0"><animate attributeName="width" from="0" to="900" begin=".3s" dur="1.1s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="10" y="10" width="880" height="450" rx="12" fill="#0d1117"/>
+<rect x="10" y="10" width="880" height="450" rx="12" fill="none" stroke="#00ff9c" stroke-width="1.5" class="glow"/>
+<g clip-path="url(#win)">
+  <rect x="10" y="10" width="880" height="36" fill="#161b22"/>
+  <circle cx="36" cy="28" r="6.5" fill="#ff5f56"/><circle cx="58" cy="28" r="6.5" fill="#ffbd2e"/><circle cx="80" cy="28" r="6.5" fill="#27c93f"/>
+  <text x="450.0" y="33" text-anchor="middle" font-size="13" fill="#8b949e">krishmal@github: ~ — zsh — 120×40</text>
+  <text x="34" y="78" font-size="16" clip-path="url(#type1)"><tspan fill="#00ff9c">krishmal@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ neofetch --style hacker</tspan></text>
+  <text class="l" style="animation-delay:1.60s" x="44" y="130" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">██╗  ██╗</text>
+  <text class="l" style="animation-delay:1.72s" x="44" y="160" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">██║ ██╔╝</text>
+  <text class="l" style="animation-delay:1.84s" x="44" y="190" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">█████╔╝ </text>
+  <text class="l" style="animation-delay:1.96s" x="44" y="220" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">██╔═██╗ </text>
+  <text class="l" style="animation-delay:2.08s" x="44" y="250" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">██║  ██╗</text>
+  <text class="l" style="animation-delay:2.20s" x="44" y="280" font-size="26" fill="#00ff9c" filter="url(#glow)" xml:space="preserve">╚═╝  ╚═╝</text>
+  <text class="l" style="animation-delay:2.00s" x="330" y="118" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">krishmal@github</tspan></text>
+  <text class="l" style="animation-delay:2.18s" x="330" y="143" font-size="15" xml:space="preserve"><tspan fill="#8b949e">───────────────</tspan></text>
+  <text class="l" style="animation-delay:2.36s" x="330" y="168" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Name</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Krishmal Dinidu</tspan></text>
+  <text class="l" style="animation-delay:2.54s" x="330" y="193" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Role</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Software Developer · AI Researcher</tspan></text>
+  <text class="l" style="animation-delay:2.72s" x="330" y="218" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Uni</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">SLIIT — Sri Lanka Institute of IT</tspan></text>
+  <text class="l" style="animation-delay:2.90s" x="330" y="243" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Host</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Colombo, Sri Lanka</tspan></text>
+  <text class="l" style="animation-delay:3.08s" x="330" y="268" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Kernel</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Brain-inspired AI · Spiking Neural Nets</tspan></text>
+  <text class="l" style="animation-delay:3.26s" x="330" y="293" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Shell</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">TypeScript · Go · Python · Rust · Dart</tspan></text>
+  <text class="l" style="animation-delay:3.44s" x="330" y="318" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Repos</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">56 public · 40+ open-source PRs merged</tspan></text>
+  <text class="l" style="animation-delay:3.62s" x="330" y="343" font-size="15" xml:space="preserve"><tspan fill="#00ff9c" font-weight="bold">Uptime</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">always learning, always shipping</tspan></text>
+  <g class="l" style="animation-delay:3.80s"><rect x="330" y="362" width="24" height="14" fill="#484f58"/><rect x="356" y="362" width="24" height="14" fill="#ff5f56"/><rect x="382" y="362" width="24" height="14" fill="#27c93f"/><rect x="408" y="362" width="24" height="14" fill="#ffbd2e"/><rect x="434" y="362" width="24" height="14" fill="#58a6ff"/><rect x="460" y="362" width="24" height="14" fill="#bc8cff"/><rect x="486" y="362" width="24" height="14" fill="#39c5cf"/><rect x="512" y="362" width="24" height="14" fill="#c9d1d9"/></g>
+  <text class="l" style="animation-delay:4.20s" x="34" y="432" font-size="16"><tspan fill="#00ff9c">krishmal@github</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#8b949e">echo "welcome to my profile"</tspan></text>
+  <g class="l" style="animation-delay:4.20s"><rect class="cur" x="456" y="418" width="9" height="18" fill="#00ff9c"/></g>
+  <rect x="10" y="10" width="880" height="450" fill="url(#lines)"/>
+  <rect class="scan" x="10" y="0" width="880" height="40" fill="url(#scanG)"/>
+</g>
+</svg>
